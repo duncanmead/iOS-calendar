@@ -6,8 +6,8 @@ import dateutil.parser
 import math
 
 # Fill in your Apple ID username and password
-username = ''
-password = ''
+username = 'duncan.mead@bigfoot.com'
+password = 'Nelly9093'
 
 # We can exclude any calendars that we don't want.
 # Unfortunately the GUID needs to be given, which you probably won't have to
